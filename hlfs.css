@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Inknut+Antiqua:400,900);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500);
+
+header, section, footer, aside, nav, article, figure, figcaption {display: block;}
+
+body {color: #666666;
+background-color: #ffe066;
+background-position: center;
+font-family: Georgia, Times, serif;
+line-height: 1.4em;
+margin: 0px;}
+
+.wrapper {width: 940px;
+margin: 20px auto 20px auto;
+border: 2px double #000000;
+background-color: white;}
+
+header {height: 260px;
+background-color:#ff944d;}
+
+h1 {font-family: 'Inknut Antiqua', serif;
+text-align: center;
+font-size: 200%;
+color: white;
+width: 940px;
+height: 130px;
+margin: 0px;
+padding-top: 100px;}
+
+nav, footer {clear: both;
+color: #ffffff;
+background-color: #FA5987;
+height: 30px;}
+
+nav ul {margin: 0px;
+padding: 5px 0px 5px 30px;}
+
+nav li {display: inline;
+margin-right: 40px;}
+
+nav li a {color: #ffffff;}
+
+article {clear: both;
+overflow: auto;
+width: 100%;}
+
+hgroup {margin-top: 0px;}
+
+
+
+a {color: #bfbff2;
+text-decoration: none;}
+
+h1, h2, h3 {font-weight: normal;}
+
+h1.sub {font-family: 'Inknut Antiqua', serif;
+text-align: center;
+font-size: 150%;
+height: 60px;
+color: black;
+width: 940px;
+margin: 0px;
+padding-top: 50px;}
+
+h2 {margin: 10px 0px 5px 0px;
+padding-left: 30px;
+padding-bottom: 10px;}
+
+h3 {margin: 0px 0px 10px 0px;
+color: #bfbff2;
+padding-left: 45px;}
+
+p {padding-right: 50px;
+padding-left: 50px;
+font-family: 'Poppins', sans-serif;}
+
+footer {font-size: 80%;
+padding: 7px 0px 0px 20px;}
+
+ul {padding-left: 50px;}
